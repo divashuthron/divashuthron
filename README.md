@@ -1,10 +1,10 @@
 ### RH.BanYeoul
+
   ```
   IF I'm in home THEN
     Response.redirect('So Happy!.asp')
    ELSEIF I'm in office THEN
     Response.redirect('So Funny!.asp')
-    '..?
    END IF
   ```
 
